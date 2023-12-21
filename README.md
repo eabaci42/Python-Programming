@@ -50,6 +50,3 @@ Got an idea or a Python spell to share? Feel free to contribute or reach out!
 ⚡ "Coding in Python is like painting your dreams – Let's create art!"
 
 ---
-
-Note: The images used are placeholders from Unsplash and can be replaced with specific Python-related visuals or graphics of your choice.
-
