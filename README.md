@@ -31,7 +31,7 @@ Welcome to my Python Programming Challenges Repository! This repository is a cur
 ## 🎨 Add a Dash of Fun
 - **Did You Know?**: Python has a rich set of libraries and frameworks that make it suitable for everything from web development to data science.
 - **Interactive Python Trivia**: Test your Python knowledge with interactive quizzes available [here](https://example.com/python-quiz).
-- **Python Document**: Python Documents: On [this](https://example.com/python-quiz) site you can find documentation about python and get a deeper learning experience.
+- **Python Document**: Python Documents: On [this](https://docs.python.org/3.12/) site you can find documentation about python and get a deeper learning experience.
 
 
 ## 📸 Capturing the Code
