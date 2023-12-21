@@ -7,7 +7,7 @@ Welcome to my Python Programming Challenges Repository! This repository is a cur
 - To demonstrate practical applications of Python programming.
 - To inspire and educate others with engaging coding examples.
 
-## 🗂 Repository Structure
+## 📂 Repository Structure
 
 ### Problems-0: Building Foundations
 - **`einstein.py`**: A simple implementation of Einstein's famous equation E=mc².
@@ -23,19 +23,19 @@ Welcome to my Python Programming Challenges Repository! This repository is a cur
 - **`interpreter.py`**: A mini interpreter for basic arithmetic operations.
 - **`meal.py`**: Suggests meals based on the time of day.
 
-## 🚀 How to Use this Repository
+## 🎩 How to Use this Repository
 1. **Clone the Adventure**: `git clone https://github.com/eabaci42/Python-Programming.git`
 2. **Explore Each Challenge**: Navigate through `Problems-0` and `Problems-1` for a variety of Python challenges.
 3. **Run and Learn**: Execute each script and learn from its workings and output.
 
-## 🌈 Add a Dash of Fun
+## 🎨 Add a Dash of Fun
 - **Did You Know?**: Python has a rich set of libraries and frameworks that make it suitable for everything from web development to data science.
 - **Interactive Python Trivia**: Test your Python knowledge with interactive quizzes available [here](https://example.com/python-quiz).
 
 ## 📸 Capturing the Code
 ![Python in Action](https://source.unsplash.com/featured/?python,coding) <!-- Random Python coding image -->
 
-## 🌟 Connect & Contribute
+## 🤝 Connect & Contribute
 Join this coding odyssey:
 - 🌐 [GitHub](https://github.com/eabaci42)
 - 💬 [Feedback and Contributions](mailto:ertugrul@atikrost.com)
